@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: maxvoltar.photo
-email: tim@maxvoltar.be
+title: stez.photo
+email: ahoy@stezycki.com
 author:
-  name: Tim Van Damme
-  email: tim@maxvoltar.be #optional
-  website: https://maxvoltar.com
+  name: Mike Stezycki
+  email: ahoy@stezycki.com #optional
+  website: https://stez.me
 description: >- # this means to ignore newlines until "baseurl:"
-  @maxvoltar's minimalistic, self-hosted photo stream.
+  A self-hosted photo stream from @mr_stezz.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maxvoltar.photo/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: maxvoltar
-github_username: maxvoltar
-instagram_username: maxvoltar
+url: "https://stez-photos.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: mr_stezz
+github_username: mr-stezz
+instagram_username:
 
 # Build settings
 plugins:
