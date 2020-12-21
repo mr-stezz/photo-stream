@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: stez.photo
+title: stez.photos
 email: ahoy@stezycki.com
 author:
   name: Mike Stezycki
-  email: ahoy@stezycki.com #optional
-  website: https://stez.me
+  email: "ahoy@stezycki.com" #optional
+  website: "https://stez.me"
 description: >- # this means to ignore newlines until "baseurl:"
   A self-hosted photo stream from @mr_stezz.
 baseurl: "" # the subpath of your site, e.g. /blog
